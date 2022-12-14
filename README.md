@@ -1,4 +1,4 @@
-# 💣 Android SMS Bomber
+# 💣 SMS Bomber
 
 [INSTALL]
 ```
