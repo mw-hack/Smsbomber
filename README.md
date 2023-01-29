@@ -16,3 +16,4 @@ python smsbomber.py
 
 | ![screenshot1](https://s2.uupload.ir/files/picsart_22-12-15_01-25-59-182_iuqr.png) | ![screenshot2](https://s2.uupload.ir/files/picsart_22-12-15_01-27-48-378_svy1.png) |
 |--|--|
+- educational video : <a href="https://t.me/Mw_hack/3088">the video</a>
